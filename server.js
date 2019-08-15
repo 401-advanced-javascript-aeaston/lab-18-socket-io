@@ -17,6 +17,7 @@ io.on('connection', (socket) => {
   //   console.log('.');
   //   socket.broadcast.emit('error', (payload));
   // })
+  });
 });
 
 // // from class
@@ -46,3 +47,4 @@ io.on('connection', (socket) => {
 //   });
   
 // });
+
