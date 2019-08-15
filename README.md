@@ -7,7 +7,7 @@
 ### Author: Adrienne Easton
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-18-socket-io/pull/1)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-18-socket-io.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-18-socket-io)
 
 #### Documentation
